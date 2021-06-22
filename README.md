@@ -14,12 +14,12 @@ Bug Hunter : Thomas FADY (thomas.fady@gmail.com)
 
 I'm the QNAP online demo environment to perform security tests. The QTS ans HelpDesk version are updated to the latest available version. QTS is updated via the QNAP interface and the HelpDesk application is updating by uploading the [latest package archive](https://download.qnap.com/QPKG/helpdesk_3.0.3-20200810_master.zip).
 
-## Timeline
+## Timeline (DD/MM/YYYY)
 
 - 04/12/2020 : Bug sent to QNAP security team
-- 07/12/2020 : QNAP confirm the report reception
+- 07/12/2020 : QNAP confirms the report reception
 - 30/01/2021 : Update requested on bug status
-- 01/02/2021 : QNAP confirm the bug
+- 01/02/2021 : QNAP confirms the bug
 - 08/04/2021 : Fix is published with Helpdesk 3.0.4
 - 11/06/2021 : Security advisory published on the QNAP website
 
